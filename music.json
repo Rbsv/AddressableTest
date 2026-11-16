@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "shuffle": true,
+  "volume": 0.6,
+  "toastSeconds": 4,
+  "folder": "music",
+  "tracks": [
+    { "id": "example", "title": "Example Song", "artist": "Example Artist", "file": "example.mp3", "hidden": true }
+  ]
+}
