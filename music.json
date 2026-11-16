@@ -18,6 +18,20 @@
             "artist": "VLx",
             "file": "Till-the-County-Line.mp3",
             "hidden": false
+        },
+        {
+            "id": "redline",
+            "title": "Redline",
+            "artist": "VLx",
+            "file": "Redline.mp3",
+            "hidden": false
+        },
+        {
+            "id": "untitled",
+            "title": "rider-rolls",
+            "artist": "VLx",
+            "file": "Riders-rolls.mp3",
+            "hidden": false
         }
     ]
 }
