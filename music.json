@@ -1,10 +1,23 @@
 {
-  "version": 1,
-  "shuffle": true,
-  "volume": 0.6,
-  "toastSeconds": 4,
-  "folder": "music",
-  "tracks": [
-    { "id": "example", "title": "Example Song", "artist": "Example Artist", "file": "example.mp3", "hidden": true }
-  ]
+    "version": 1,
+    "shuffle": true,
+    "volume": 0.6000000238418579,
+    "toastSeconds": 4.0,
+    "folder": "music",
+    "tracks": [
+        {
+            "id": "where-the-blacktop-bends",
+            "title": "Where the Blacktop Bends",
+            "artist": "VLx",
+            "file": "Where-the-Blacktop-Bends.mp3",
+            "hidden": false
+        },
+        {
+            "id": "till-the-county-line",
+            "title": "Till the County Line",
+            "artist": "VLx",
+            "file": "Till-the-County-Line.mp3",
+            "hidden": false
+        }
+    ]
 }
