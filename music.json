@@ -32,6 +32,13 @@
             "artist": "VLx",
             "file": "Riders-rolls.mp3",
             "hidden": false
+        },
+        {
+            "id": "nocturnal-lap",
+            "title": "Nocturnal Lap",
+            "artist": "VLx",
+            "file": "Nocturnal-Lap.mp3",
+            "hidden": false
         }
     ]
 }
