@@ -1,5 +1,10 @@
 {
-    "version": 1,
+    "version": 3,
+    "preload": [
+        "car",
+        "thumb",
+        "mappreview"
+    ],
     "cars": [
         {
             "id": "car_7e",
