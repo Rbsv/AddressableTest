@@ -1,5 +1,5 @@
 {
-    "version": 3,
+    "version": 8,
     "preload": [
         "car",
         "thumb",
@@ -39,6 +39,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 7,
+                "race": "uptown_loop",
+                "position": 3,
+                "price": 4700
             }
         },
         {
@@ -74,6 +80,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 1,
+                "race": "",
+                "position": 3,
+                "price": 0
             }
         },
         {
@@ -109,6 +121,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 1,
+                "race": "street_debut",
+                "position": 3,
+                "price": 900
             }
         },
         {
@@ -144,6 +162,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 1,
+                "race": "",
+                "position": 3,
+                "price": 0
             }
         },
         {
@@ -179,6 +203,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 1,
+                "race": "",
+                "position": 3,
+                "price": 0
             }
         },
         {
@@ -214,6 +244,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 3,
+                "race": "street_debut",
+                "position": 1,
+                "price": 0
             }
         },
         {
@@ -249,6 +285,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 2,
+                "race": "street_debut",
+                "position": 3,
+                "price": 1300
             }
         },
         {
@@ -284,6 +326,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 3,
+                "race": "downtown_dash",
+                "position": 4,
+                "price": 1900
             }
         },
         {
@@ -319,6 +367,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 4,
+                "race": "downtown_dash",
+                "position": 4,
+                "price": 2200
             }
         },
         {
@@ -354,6 +408,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 5,
+                "race": "downtown_dash",
+                "position": 3,
+                "price": 2900
             }
         },
         {
@@ -389,6 +449,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 5,
+                "race": "downtown_dash",
+                "position": 1,
+                "price": 0
             }
         },
         {
@@ -424,6 +490,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 6,
+                "race": "uptown_loop",
+                "position": 3,
+                "price": 3900
             }
         },
         {
@@ -459,6 +531,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 8,
+                "race": "uptown_loop",
+                "position": 1,
+                "price": 0
             }
         },
         {
@@ -494,6 +572,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 2,
+                "race": "street_debut",
+                "position": 3,
+                "price": 1700
             }
         },
         {
@@ -529,6 +613,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 10,
+                "race": "ring_road",
+                "position": 1,
+                "price": 0
             }
         },
         {
@@ -564,6 +654,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 8,
+                "race": "uptown_loop",
+                "position": 3,
+                "price": 4200
             }
         },
         {
@@ -599,6 +695,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 7,
+                "race": "uptown_loop",
+                "position": 3,
+                "price": 4400
             }
         },
         {
@@ -634,6 +736,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 5,
+                "race": "downtown_dash",
+                "position": 3,
+                "price": 3300
             }
         },
         {
@@ -669,6 +777,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 9,
+                "race": "ring_road",
+                "position": 3,
+                "price": 5300
             }
         },
         {
@@ -704,6 +818,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 6,
+                "race": "downtown_dash",
+                "position": 2,
+                "price": 3800
             }
         },
         {
@@ -739,6 +859,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 12,
+                "race": "grand_prix",
+                "position": 2,
+                "price": 9800
             }
         },
         {
@@ -774,6 +900,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 12,
+                "race": "ring_road",
+                "position": 2,
+                "price": 9000
             }
         },
         {
@@ -809,6 +941,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 13,
+                "race": "grand_prix",
+                "position": 2,
+                "price": 10500
             }
         },
         {
@@ -844,6 +982,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 10,
+                "race": "ring_road",
+                "position": 2,
+                "price": 7800
             }
         },
         {
@@ -879,6 +1023,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 8,
+                "race": "uptown_loop",
+                "position": 2,
+                "price": 6000
             }
         },
         {
@@ -914,6 +1064,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 9,
+                "race": "ring_road",
+                "position": 3,
+                "price": 6500
             }
         },
         {
@@ -949,6 +1105,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 11,
+                "race": "ring_road",
+                "position": 2,
+                "price": 8300
             }
         },
         {
@@ -984,6 +1146,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 15,
+                "race": "grand_prix",
+                "position": 1,
+                "price": 12800
             }
         },
         {
@@ -1019,6 +1187,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 16,
+                "race": "grand_prix",
+                "position": 1,
+                "price": 14600
             }
         },
         {
@@ -1054,6 +1228,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 14,
+                "race": "grand_prix",
+                "position": 2,
+                "price": 11300
             }
         },
         {
@@ -1089,6 +1269,12 @@
                 "steerAssist": 0.30000001192092898,
                 "engineVolume": 0.5,
                 "engineTuningStep": 0.05000000074505806
+            },
+            "unlock": {
+                "level": 17,
+                "race": "grand_prix",
+                "position": 1,
+                "price": 17000
             }
         }
     ],
@@ -1129,5 +1315,131 @@
             "hidden": false,
             "lockedLabel": "Coming soon"
         }
-    ]
+    ],
+    "races": [
+        {
+            "id": "street_debut",
+            "name": "Street Debut",
+            "requiredPosition": 3,
+            "unlockLevel": 1,
+            "unlockRaces": [],
+            "coins": [
+                1000,
+                600,
+                350,
+                150
+            ],
+            "xp": [
+                300,
+                200,
+                120,
+                60
+            ],
+            "firstClearCoins": 500,
+            "firstClearXp": 210,
+            "repeatPercent": 35
+        },
+        {
+            "id": "downtown_dash",
+            "name": "Downtown Dash",
+            "requiredPosition": 3,
+            "unlockLevel": 3,
+            "unlockRaces": [
+                "street_debut"
+            ],
+            "coins": [
+                1500,
+                900,
+                520,
+                230
+            ],
+            "xp": [
+                400,
+                260,
+                160,
+                80
+            ],
+            "firstClearCoins": 750,
+            "firstClearXp": 280,
+            "repeatPercent": 35
+        },
+        {
+            "id": "uptown_loop",
+            "name": "Uptown Loop",
+            "requiredPosition": 3,
+            "unlockLevel": 5,
+            "unlockRaces": [
+                "downtown_dash"
+            ],
+            "coins": [
+                2100,
+                1260,
+                740,
+                320
+            ],
+            "xp": [
+                520,
+                340,
+                210,
+                100
+            ],
+            "firstClearCoins": 1050,
+            "firstClearXp": 360,
+            "repeatPercent": 35
+        },
+        {
+            "id": "ring_road",
+            "name": "Ring Road",
+            "requiredPosition": 3,
+            "unlockLevel": 8,
+            "unlockRaces": [
+                "uptown_loop"
+            ],
+            "coins": [
+                2800,
+                1680,
+                980,
+                420
+            ],
+            "xp": [
+                660,
+                430,
+                260,
+                130
+            ],
+            "firstClearCoins": 1400,
+            "firstClearXp": 460,
+            "repeatPercent": 35
+        },
+        {
+            "id": "grand_prix",
+            "name": "Grand Prix",
+            "requiredPosition": 3,
+            "unlockLevel": 11,
+            "unlockRaces": [
+                "ring_road"
+            ],
+            "coins": [
+                3600,
+                2160,
+                1260,
+                540
+            ],
+            "xp": [
+                820,
+                530,
+                330,
+                160
+            ],
+            "firstClearCoins": 1800,
+            "firstClearXp": 570,
+            "repeatPercent": 35
+        }
+    ],
+    "progression": {
+        "maxLevel": 20,
+        "baseXp": 100.0,
+        "growth": 1.149999976158142,
+        "startCoins": 0
+    }
 }
