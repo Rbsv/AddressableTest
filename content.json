@@ -1,5 +1,5 @@
 {
-    "version": 8,
+    "version": 1,
     "preload": [
         "car",
         "thumb",
@@ -124,7 +124,7 @@
             },
             "unlock": {
                 "level": 1,
-                "race": "street_debut",
+                "race": "",
                 "position": 3,
                 "price": 900
             }
@@ -328,8 +328,8 @@
                 "engineTuningStep": 0.05000000074505806
             },
             "unlock": {
-                "level": 3,
-                "race": "downtown_dash",
+                "level": 1,
+                "race": "",
                 "position": 4,
                 "price": 1900
             }
@@ -574,8 +574,8 @@
                 "engineTuningStep": 0.05000000074505806
             },
             "unlock": {
-                "level": 2,
-                "race": "street_debut",
+                "level": 1,
+                "race": "",
                 "position": 3,
                 "price": 1700
             }
